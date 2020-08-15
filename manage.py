@@ -2,7 +2,7 @@
 # hello world
 import os
 import sys
-
+# hello world
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "news01.settings")
 
